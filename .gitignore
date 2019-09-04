@@ -7,10 +7,10 @@
 ./build
 # testing
 /coverage
-/public/manifest.json
 
 # production
 /build
+/public/manifest.json
 
 # misc
 .DS_Store
