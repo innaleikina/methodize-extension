@@ -7,7 +7,7 @@
 ./build
 # testing
 /coverage
-./public/manifest.json
+/public/manifest.json
 
 # production
 /build
